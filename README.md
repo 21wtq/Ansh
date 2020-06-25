@@ -1,2 +1,3 @@
-x= hello world
-(print)x
+x="hello world"
+print(x)
+
